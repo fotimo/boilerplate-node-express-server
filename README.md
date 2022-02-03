@@ -1,7 +1,7 @@
 # boilerplate-node-express-server
 Boilerplate Script for Node Js, Express Js Server. Additional Features: JWT Token, Babel, Nodemon, Helmet, Dotnev
 
-##Installation
+## Installation
 `git clone https://github.com/fotimo/boilerplate-node-express-server.git`
 
 ## 1. Step  - rename .env
